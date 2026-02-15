@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-powered-README%20generator-black?style=for-the-badge">
+  
   <img src="https://img.shields.io/badge/CLI-tool-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge">
 </p>
