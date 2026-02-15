@@ -32,7 +32,7 @@ npm install
 ## Usage
 
 npm run dev
-
+```
 ## Tech Stack
 
 - Next.js
